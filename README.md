@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+안녕하세요, 이지로직입니다. 
+
+소개를 하고 싶은데 할 줄 아는게 별로 없네요.  
+
+스킬 : JS 
+
+이만 줄이겠습니다. 
+
+------ 
+
+I am easylogic. 
+
+I have only one skill : javascript. 
+
+Thank you.
