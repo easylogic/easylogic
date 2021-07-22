@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 이만 줄이겠습니다. 
 
+아참, 웹에서 여러가지 용도로 쓸 수 있는  디자인 툴을 하나 만들고 있습니다.  
+
+같이 만들어 보실 분 ? 
+
 ------ 
 
 I am easylogic. 
